@@ -9,7 +9,7 @@ Materia:PROGRAMACION WEB
 
 Profesor: Martinez Nieto Adelina Equipo: 
 MORALES OSORIO RUBI ESMERALDA
-MORALES OSORIO RUBI ESMERALDA 
+JIMENEZ CASTILLEJOS FABIAN DE JESUS
 
 
 Grupo: VSI Oaxaca de juarez a 15  de julio de 2025
