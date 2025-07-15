@@ -9,6 +9,7 @@ Materia:PROGRAMACION WEB
 
 Profesor: Martinez Nieto Adelina Equipo: 
 MORALES OSORIO RUBI ESMERALDA
+
 JIMENEZ CASTILLEJOS FABIAN DE JESUS
 
 
@@ -76,72 +77,37 @@ Herramientas:
 4. Accede a tu Pokédex personal
 
    <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/c07ed797-1761-48f7-8b94-708944470e3d" />
-
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a079e444-171c-42a5-aa02-58e38a21ad49" />
 
 ### Gestión de Pokémon
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/b00df8ab-f472-4eea-b610-ff7f734b876e" />
+
 1. **Agregar Pokémon**: Usa el botón "+" para crear un nuevo Pokémon
 2. **Ver Detalles**: Haz clic en cualquier Pokémon para ver información completa
-3. **Editar**: Usa el ícono de edición para modificar datos
-4. **Eliminar**: Confirma la eliminación con el ícono de papelera
+3. <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/8744bd8e-5ae7-4a4a-85cd-8000ad684868" />
+
+4. **Editar**: Usa el ícono de edición para modificar datos
+   <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/ddc27103-56d7-4a83-90b1-97d4f86e1e8e" />
+<img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/876e8426-7d73-4240-a1ea-29a5c584a82e" />
+
+5. **Eliminar**: Confirma la eliminación con el ícono de papelera
+6. <img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/0f62b41f-7fa1-4ab0-97bf-5a9722fa6f1c" />
+
+7. **Paginacion**
+   
+8.**Filtro**
+Filtro por id
+<img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/825c8b5b-8719-46ce-9dec-d47ab1bcef2a" />
+filtro por tipo 
+![Uploading image.png…]()
+
+
 
 ### Perfil de Usuario
 - Accede desde el menú principal
 - Visualiza tus estadísticas
 - Actualiza tu información personal
 
-## 📁 Estructura del Proyecto
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
 
-```
-pokedex-project/
-├── public/
-│   ├── images/
-│   ├── css/
-│   └── js/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   └── utils/
-├── database/
-│   ├── migrations/
-│   └── seeds/
-├── config/
-├── tests/
-├── .env.example
-├── package.json
-└── README.md
-```
 
-## 🤝 Contribución
-
-¡Las contribuciones son bienvenidas! Para contribuir:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia [MIT/GPL/Apache] - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
-
-## 👥 Autores
-
-- **Tu Nombre** - *Desarrollo Principal* - [Tu GitHub](https://github.com/tu-usuario)
-
-## 🙏 Agradecimientos
-
-- PokéAPI por proporcionar los datos de Pokémon
-- Comunidad de desarrolladores por el apoyo
-- [Otros agradecimientos]
-
-## 📧 Contacto
-
-- Email: tu.email@ejemplo.com
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-
----
-
-⭐ ¡No olvides dar una estrella al proyecto si te fue útil!
