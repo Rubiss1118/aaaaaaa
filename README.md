@@ -75,15 +75,13 @@ Herramientas:
 2. Haz clic en "Iniciar Sesión"
 3. Ingresa tus credenciales
 4. Accede a tu Pokédex personal
-5. 
-<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
+  <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
+
 6. ### Perfil de Usuario
 - Accede desde el menú principal
 - Visualiza tus estadísticas
 - Actualiza tu información personal
-
 <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
-
    <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/c07ed797-1761-48f7-8b94-708944470e3d" />
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a079e444-171c-42a5-aa02-58e38a21ad49" />
 
