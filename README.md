@@ -75,11 +75,17 @@ Herramientas:
 2. Haz clic en "Iniciar Sesión"
 3. Ingresa tus credenciales
 4. Accede a tu Pokédex personal
+5. ### Perfil de Usuario
+- Accede desde el menú principal
+- Visualiza tus estadísticas
+- Actualiza tu información personal
+
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
 
    <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/c07ed797-1761-48f7-8b94-708944470e3d" />
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a079e444-171c-42a5-aa02-58e38a21ad49" />
 
-### Gestión de Pokémon
+### Gestión de Pokémon en tablas
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/b00df8ab-f472-4eea-b610-ff7f734b876e" />
 
 1. **Agregar Pokémon**: Usa el botón "+" para crear un nuevo Pokémon
@@ -99,15 +105,15 @@ Herramientas:
 Filtro por id
 <img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/825c8b5b-8719-46ce-9dec-d47ab1bcef2a" />
 filtro por tipo 
-![Uploading image.png…]()
+<img width="1917" height="1014" alt="image" src="https://github.com/user-attachments/assets/a8dfcf92-cb26-4266-bf83-9e139ac2f8d4" />
 
 
 
-### Perfil de Usuario
-- Accede desde el menú principal
-- Visualiza tus estadísticas
-- Actualiza tu información personal
 
-<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
+Tecnologías usadas 
 
+Explicación del código (métodos principales, flujo de la app)
 
+APIs elegidas y su justificación
+
+Capturas de pantalla del proyecto
