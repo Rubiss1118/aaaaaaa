@@ -66,57 +66,6 @@ Herramientas:
 - [Otras herramientas utilizadas]
 ```
 
-## 📦 Instalación
-
-### Prerrequisitos
-```bash
-# Instalar dependencias necesarias
-[Lista de prerrequisitos]
-```
-
-### Pasos de Instalación
-
-1. **Clonar el repositorio**
-```bash
-git clone [URL-del-repositorio]
-cd pokedex-project
-```
-
-2. **Instalar dependencias**
-```bash
-# Frontend
-npm install
-
-# Backend (si aplica)
-[comandos de instalación del backend]
-```
-
-3. **Configurar variables de entorno**
-```bash
-# Crear archivo .env
-cp .env.example .env
-
-# Editar variables de entorno
-[Variables necesarias]
-```
-
-4. **Configurar base de datos**
-```bash
-# Ejecutar migraciones
-[comandos de migración]
-
-# Poblar base de datos (opcional)
-[comandos de seeding]
-```
-
-5. **Iniciar la aplicación**
-```bash
-# Desarrollo
-npm run dev
-
-# Producción
-npm start
-```
 
 ## 🎮 Uso
 
@@ -125,6 +74,9 @@ npm start
 2. Haz clic en "Iniciar Sesión"
 3. Ingresa tus credenciales
 4. Accede a tu Pokédex personal
+
+   <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/c07ed797-1761-48f7-8b94-708944470e3d" />
+
 
 ### Gestión de Pokémon
 1. **Agregar Pokémon**: Usa el botón "+" para crear un nuevo Pokémon
