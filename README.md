@@ -66,10 +66,7 @@ Herramientas:
 - Control de versiones: Git
 - [Otras herramientas utilizadas]
 ```
-
-
 ## 🎮 Uso
-
 ### Inicio de Sesión
 1. Navega a la página principal
 2. Haz clic en "Iniciar Sesión"
@@ -77,10 +74,10 @@ Herramientas:
 4. Accede a tu Pokédex personal
   <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
 
-6. ### Perfil de Usuario
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/c24d2620-022f-42e7-bc0f-ce973dbbbb13" />
+
+6. ### Perfil de Usuario con verificacion API
 - Accede desde el menú principal
-- Visualiza tus estadísticas
-- Actualiza tu información personal
 <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/31889913-7b23-47a4-9d39-7060cb13cf3d" />
    <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/c07ed797-1761-48f7-8b94-708944470e3d" />
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a079e444-171c-42a5-aa02-58e38a21ad49" />
@@ -89,26 +86,26 @@ Herramientas:
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/b00df8ab-f472-4eea-b610-ff7f734b876e" />
 
 1. **Agregar Pokémon**: Usa el botón "+" para crear un nuevo Pokémon
-2. **Ver Detalles**: Haz clic en cualquier Pokémon para ver información completa
-3. <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/8744bd8e-5ae7-4a4a-85cd-8000ad684868" />
+2. 
+3. **Ver Detalles**: Haz clic en cualquier Pokémon para ver información completa
+4. <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/8744bd8e-5ae7-4a4a-85cd-8000ad684868" />
 
-4. **Editar**: Usa el ícono de edición para modificar datos
+5. **Editar**: Usa el ícono de edición para modificar datos
    <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/ddc27103-56d7-4a83-90b1-97d4f86e1e8e" />
 <img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/876e8426-7d73-4240-a1ea-29a5c584a82e" />
 
-5. **Eliminar**: Confirma la eliminación con el ícono de papelera
-6. <img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/0f62b41f-7fa1-4ab0-97bf-5a9722fa6f1c" />
+6. **Eliminar**: Confirma la eliminación con el ícono de papelera
+7. <img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/0f62b41f-7fa1-4ab0-97bf-5a9722fa6f1c" />
 
-7. **Paginacion**
+8. **Paginacion**
+   <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/3fdf287b-4112-443f-84f8-c6f4fb4eef0b" />
+
    
 8.**Filtro**
 Filtro por id
 <img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/825c8b5b-8719-46ce-9dec-d47ab1bcef2a" />
 filtro por tipo 
 <img width="1917" height="1014" alt="image" src="https://github.com/user-attachments/assets/a8dfcf92-cb26-4266-bf83-9e139ac2f8d4" />
-
-
-
 
 Tecnologías usadas 
 
